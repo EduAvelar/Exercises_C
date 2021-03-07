@@ -1,3 +1,3 @@
-# Praticando exercícios em C
+# Exercícios em C
 
-  * exercícios extraidos de listas da faculdade
+  Exercícios extraidos de listas da faculdade
